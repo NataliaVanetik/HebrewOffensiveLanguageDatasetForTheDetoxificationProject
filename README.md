@@ -10,10 +10,10 @@ Contains offensive language dataset and list of offensive words in Hebrew
 
 Creation and usage of word list(s) is described in the paper:
 
-Liebeskind, C., Litvak, M. and Vanetik, N., 2024, June. From Linguistics to Practice: a Case Study of Offensive Language Taxonomy in Hebrew. In Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024) (pp. 110-117).
+**Liebeskind, C., Litvak, M. and Vanetik, N., 2024, June. From Linguistics to Practice: a Case Study of Offensive Language Taxonomy in Hebrew. In Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024) (pp. 110-117).**
 
 Creation and analysis of the dataset is described in the paper:
 
-Litvak, Marina, Natalia Vanetik, Chaya Liebeskind, Omar Hmdia, and Rizek Abu Madeghem. "Offensive language detection in hebrew: can other languages help?." In Proceedings of the thirteenth language resources and evaluation conference, pp. 3715-3723. 2022.
+**Litvak, Marina, Natalia Vanetik, Chaya Liebeskind, Omar Hmdia, and Rizek Abu Madeghem. "Offensive language detection in hebrew: can other languages help?." In Proceedings of the thirteenth language resources and evaluation conference, pp. 3715-3723. 2022.**
 
 If you use this data, please cite both of these papers.
