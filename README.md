@@ -16,4 +16,4 @@ Creation and analysis of the dataset is described in the paper:
 
 **Litvak, Marina, Natalia Vanetik, Chaya Liebeskind, Omar Hmdia, and Rizek Abu Madeghem. "Offensive language detection in hebrew: can other languages help?." In Proceedings of the thirteenth language resources and evaluation conference, pp. 3715-3723. 2022.**
 
-If you use this data, please cite both of these papers.
+If you use this data, please cite both papers.
