@@ -6,7 +6,7 @@ Contains offensive language dataset and list of offensive words in Hebrew
 
 2) Hebrew-abusive_words_joint.xlsx - the join list of offensive words, sorted in alphabetical order.
    
-3) The OLaH dataset - contains 2026 texts labeled as offensive/not offensive. Each line contains the 0/1 label (1 means offensive), the Hebrew text, and the text ID.
+3) The OLaH dataset - contains 2011 texts labeled as offensive/not offensive. Each line contains the 0/1 label (1 means offensive), the Hebrew text, and the text ID. 15 texts from the original OLaH datasets were filtered out because they are used in another dataset.
 
 Creation and usage of word list(s) is described in the paper:
 
